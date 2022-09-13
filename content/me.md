@@ -18,8 +18,8 @@ To actively monitor emerging botnets, I created and managed an IoT honeynet syst
 
 Besides all these studies, I always pay attention to existing and latest published vulnerabilities. I learned a lot about their mechanisms and exploits, which further enriched my knowledge of Internet protocols.
 
-# Experience
-TODO
+<!-- # Experience
+TODO -->
 
 # Working with my group mates
 
