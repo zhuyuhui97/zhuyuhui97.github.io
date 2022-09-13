@@ -16,6 +16,6 @@ title: Publications
     TrustCom 2021 ***[CCF-C]***
 
 - DroidDetector: a traffic-based platform to detect android malware using machine learning  
-    Jingya Shen, Zhenxiang Chen, Shanshan Wang, ***[CCF-C]***, Muhammad Umair Hassan  
+    Jingya Shen, Zhenxiang Chen, Shanshan Wang, ***Yuhui Zhu***, Muhammad Umair Hassan  
     Third International Workshop on Pattern Recognition 2018
 
