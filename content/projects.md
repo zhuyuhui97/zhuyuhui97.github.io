@@ -3,24 +3,24 @@ title: Projects
 ---
 
 
-# Group Projects
+# Group Projects {#group}
 
 ## IoT Malware Research {#iot}
 
-1. IoT Malware Intelligence Collecting System  
+1. ⭐IoT Malware Intelligence Collecting System  
     Capture IoT botnets and get their behavior data using honeycloud and sandboxes.  
     <a href="https://github.com/zhuyuhui97/relaypot"><i class="fab fa-github"></i>Github</a>  <a href={{< ref "/_projects/iot" >}}>🔍Details</a>
 
 
 ## Android Malware Research {#android}
 
-2. Data Analyze and Storage Infrastructures  
-    Building the workflow of our group’s data management, maintaining cloud servers and databases.  
-    <a href={{< ref "/_projects/group_infra" >}}>🔍Details</a>
-
-3. Android Test Farm  
+2. 🔥Android Test Farm  
     Manupulates Android devices to run apps and collect their network flow.  
     <a href="https://github.com/zhuyuhui97/loci-android-testbench"><i class="fab fa-github"></i>Github</a>  <a href={{< ref "/_projects/test_farm" >}}>🔍Details</a>
+
+3. Data Analyze and Storage Infrastructures  
+    Building the workflow of our group’s data management, maintaining cloud servers and databases.  
+    <a href={{< ref "/_projects/group_infra" >}}>🔍Details</a>
 
 4. Network Traffic Online Analyzer in High-Speed Networks and Embedded Devices  
     Collect and analyze network traffic on network devices, make classifiers adapt to various environments.  
@@ -31,7 +31,7 @@ title: Projects
     <a href="https://github.com/zhuyuhui97/nodogsplash-python"><i class="fab fa-github"></i>Github</a>  <a href={{< ref "/_projects/nodogsplash" >}}>🔍Details</a>
 
 
-# Personal & Hobby Projects
+# Personal & Hobby Projects {#personal}
 
 6. Hacking Network Authenticator Apps to Bypass NAT Detection on Android  
     Using `Magisk` to hook and substitute functions related to networking.  
@@ -60,6 +60,8 @@ title: Projects
 
 # Academic Projects
 
+As we refered in many papers, the projects and studies of our group, including the "Group Projects" listed on this page were suppoted by following fundings:
+
 12. Intelligent Detection of Mobile Malware Network Activities  
     *May 2019 - Aug. 2022* - Funded by Project of Independent Cultivated Innovation Team of Jinan City, 2018GXRC002.  
     Research Assistant。
@@ -75,3 +77,5 @@ title: Projects
 15. Traffic Online Detection Based on Imbalanced Deep Learning For Android Malwares  
     *Jan. 2017 - Feb. 2020* - Funded by National Natural Science Foundation of China, No.61672262.  
     Research Assistant.
+
+Along with many other grants: National Natural Science Foundation of China under Grants No.61472164 and No.61702218, Shandong Provincial Key R&D Program under Grant No.2018CXG0706 and No.2019GGX101028, Project of Shandong Province Higher Educational Youth Innovation Science and Technology Program NO.2019KJN028.

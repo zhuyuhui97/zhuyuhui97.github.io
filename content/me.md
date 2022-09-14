@@ -24,3 +24,10 @@ TODO -->
 # Working with my Group Mates
 
 During my cooperation with groupmates, I also developed my data analysis skills and made scripts to mine heterogeneous intelligence. To accelerate our workflow on the SQL-based database, I combined multiple tools with python to extract and analyze the metadata of collected objects. As our group is planning to migrate the data infrastructure to data-intensive platforms, I have learned some basics about Hadoop. I’m strongly willing to learn more about it and ready to develop my skills. 
+
+# About [LOCI@University of Jinan](http://loci.ujn.edu.cn)
+
+The Cyber Intelligence Lab (loci Lab) in the School of Information Science and Engineering at the University of Jinan is directed by Prof. Zhenxiang Chen. The lab conducts research mainly on Internet traffic measurement and behavior analysis, mobile network security and privacy issues, and mobile malware detection. Recently, we are focusing on building an automatic and intelligent traffic collection and analysis system and using the network traffic to detect malware behavior.
+
+We are looking for extensive international collaborators and welcome scholars from the world to visit our Lab.
+
