@@ -10,7 +10,7 @@ In our earlier flow-based mobile malware detection research, I was in charge of 
 
 While my master thesis was on building intelligence response models for heterogeneous IoT platforms, I’m currently working on investigating uncovered relationships among botnets. All these experience makes me a good perception and distinctive knowledge of Internet security. 
 
-# My Professional Kkills
+# My Professional Skills
 
 I’m strongly motivated to learn new techniques and willing to achieve my thoughts through practice. While we used tcpdump and wireshark in our prototypes, I involved state-of-art techniques to achieve online detection in high-speed or embedded environments.
 
