@@ -54,4 +54,18 @@ title: Projects
 
 ## Academic projects
 
+- Intelligent Detection of Mobile Malware Network Activities  
+    *May 2019 - Aug. 2022* - Funded by Project of Independent Cultivated Innovation Team of Jinan City, 2018GXRC002.  
+    Research Assistant。
 
+- IoT and Mobile Malware Traffic Detection  
+    *Nov. 2018 - Jul. 2020* - Technology procurement by Huawei Technologies, YBN2018095092.  
+    Research Assistant, core developer.
+
+- Mobile Malware Traffic Detection Model in IPv6 Environment  
+    *May 2017 - Jul. 2019* - Funded by CERNET Next Generation Internet Innovation Project, NGII20160404.  
+    Research Assistant.
+
+- Traffic Online Detection Based on Imbalanced Deep Learning For Android Malwares  
+    *Jan. 2017 - Feb. 2020* - Funded by National Natural Science Foundation of China, No.61672262.  
+    Research Assistant.
