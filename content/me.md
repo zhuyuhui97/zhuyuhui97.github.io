@@ -2,7 +2,7 @@
 title: About Me
 ---
 
-# My academic projects
+# My Academic Projects
 
 At our lab, I previously conducted multiple cybersecurity studies and gained extensive engineering experience in Internet measurement, web dataset collection, and malware analysis.
 
@@ -10,7 +10,7 @@ In our earlier flow-based mobile malware detection research, I was in charge of 
 
 While my master thesis was on building intelligence response models for heterogeneous IoT platforms, I’m currently working on investigating uncovered relationships among botnets. All these experience makes me a good perception and distinctive knowledge of Internet security. 
 
-# My professional skills
+# My Professional Kkills
 
 I’m strongly motivated to learn new techniques and willing to achieve my thoughts through practice. While we used tcpdump and wireshark in our prototypes, I involved state-of-art techniques to achieve online detection in high-speed or embedded environments.
 
@@ -21,6 +21,6 @@ Besides all these studies, I always pay attention to existing and latest publish
 <!-- # Experience
 TODO -->
 
-# Working with my group mates
+# Working with my Group Mates
 
 During my cooperation with groupmates, I also developed my data analysis skills and made scripts to mine heterogeneous intelligence. To accelerate our workflow on the SQL-based database, I combined multiple tools with python to extract and analyze the metadata of collected objects. As our group is planning to migrate the data infrastructure to data-intensive platforms, I have learned some basics about Hadoop. I’m strongly willing to learn more about it and ready to develop my skills. 

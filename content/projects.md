@@ -3,16 +3,16 @@ title: Projects
 ---
 
 
-# Group projects
+# Group Projects
 
-## IoT malware research {#iot}
+## IoT Malware Research {#iot}
 
 1. IoT Malware Intelligence Collecting System  
     Capture IoT botnets and get their behavior data using honeycloud and sandboxes.  
     <a href="https://github.com/zhuyuhui97/relaypot"><i class="fab fa-github"></i>Github</a>  <a href={{< ref "/_projects/iot" >}}>🔍Details</a>
 
 
-## Android malware research {#android}
+## Android Malware Research {#android}
 
 2. Data Analyze and Storage Infrastructures  
     Building the workflow of our group’s data management, maintaining cloud servers and databases.  
@@ -31,7 +31,7 @@ title: Projects
     <a href="https://github.com/zhuyuhui97/nodogsplash-python"><i class="fab fa-github"></i>Github</a>  <a href={{< ref "/_projects/nodogsplash" >}}>🔍Details</a>
 
 
-# Personal & hobby projects
+# Personal & Hobby Projects
 
 6. Hacking Network Authenticator Apps to Bypass NAT Detection on Android  
     Using `Magisk` to hook and substitute functions related to networking.  
@@ -58,7 +58,7 @@ title: Projects
     <a href={{< ref "/_projects/washing_machine" >}}>🔍Details</a>
 
 
-# Academic projects
+# Academic Projects
 
 12. Intelligent Detection of Mobile Malware Network Activities  
     *May 2019 - Aug. 2022* - Funded by Project of Independent Cultivated Innovation Team of Jinan City, 2018GXRC002.  
