@@ -1,7 +1,7 @@
 ---
 title: Publications
 ---
-## Conference Proceedings & Journals
+# Conference Proceedings & Journals
 
 - Mining Function Homology of Bot Loaders from Honeypot Logs.  
     ***Yuhui Zhu***, Zhenxiang Chen, Qiben Yan, Shanshan Wang, Enlong Li, Lizhi Peng, Chuan Zhao  
@@ -19,7 +19,7 @@ title: Publications
     Jingya Shen, Zhenxiang Chen, Shanshan Wang, ***Yuhui Zhu***, Muhammad Umair Hassan  
     Third International Workshop on Pattern Recognition 2018, [SPIE🌐](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10828/108280N/DroidDetector--a-traffic-based-platform-to-detect-android-malware/10.1117/12.2501923.short).
 
-## Patents
+# Patents
 
 - Android Application Testbench System Based on the Test Farm  
     CN202110088425.2 *Under substantive examination.*  
