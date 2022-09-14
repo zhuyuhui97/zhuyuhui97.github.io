@@ -23,13 +23,13 @@ title: Publications
 
 - Android Application Testbench System Based on the Test Farm  
     CN202110088425.2 *Under substantive examination.*  
-    Part of the "Android Test Farm" project.
+    Part of the "Android Test Farm" project, in the [Android malware research]({{<ref "projects#android">}}).
 
 - An Embedded Realtime Collector for Network Flows and Runtime Logs on Android OS  
     CN202110111586.9 *Under substantive examination.*  
-    Part of the "Network Traffic Online Analyzer" project.
+    Part of the "Network Traffic Online Analyzer" project, in the [Android malware research]({{<ref "projects#android">}}).
 
 - Network Flow Collector for Encrypted Network Conversations on Android OS  
     CN202110103856.1 *Under substantive examination.*  
-    Part of the "Network Traffic Online Analyzer" project.
+    Part of the "Network Traffic Online Analyzer" project, in the [Android malware research]({{<ref "projects#android">}}).
 
