@@ -4,7 +4,7 @@ title: Miscellaneous
 
 # Skills
 - **Languages:**  
-**Chinese *(Mandarin native speaker)***, **English *(qualified for CET-6)***, some other East-Asian languages.
+**Chinese *(Mandarin native speaker)***, **English *(IELTS 6.5/L7/R7.5/W6/S6)***, some other East-Asian languages.
 
 - **Programming:**  
 **Python**, **C/C++**, **Linux Shell**, C#, Java(Android), Verilog, MIPS ASM, enthusiastic to discover more!

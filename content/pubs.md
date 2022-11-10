@@ -3,9 +3,13 @@ title: Publications
 ---
 # Conference Proceedings & Journals
 
+- Devils in the Clouds: An Evolutionary Study of Telnet Bot Loaders.  
+    ***Yuhui Zhu***, Zhenxiang Chen, Qiben Yan, Shanshan Wang, Alberto Giaretta,Enlong Li, Lizhi Peng, Chuan Zhao, Mauro Conti  
+    *In progress*.
+
 - Mining Function Homology of Bot Loaders from Honeypot Logs.  
     ***Yuhui Zhu***, Zhenxiang Chen, Qiben Yan, Shanshan Wang, Enlong Li, Lizhi Peng, Chuan Zhao  
-    *In progress*, [arXiv🌐](https://arxiv.org/abs/2206.00385).
+    [arXiv🌐](https://arxiv.org/abs/2206.00385).
 
 - IoT Botnet Detection framework from Network Behavior based on Extreme Learning Machine  
     Nasimul Hasan, Zhenxiang Chen, Chuan Zhao, ***Yuhui Zhu***, Cong Liu  
