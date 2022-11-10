@@ -4,7 +4,7 @@ Android testbench for network-based mobile malware analysis by LOCI team, Univer
 This was developed for our work on network traffic-based mobile malware detection. To handle a large number of collected apps, We test them on Android guest machines using this project to automatically handle the process of installing, running, and gathering generated network traffic. We leverage ADB to run numerous commands to manipulate guest devices&amp;rsquo; Android environments in task loops.</description></item><item><title>Cellular-based Commercial Washing Machine Management Platform</title><link>/_projects/washing_machine/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/_projects/washing_machine/</guid><description/></item><item><title>Data Analyze and Storage Infrastructures</title><link>/_projects/group_infra/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/_projects/group_infra/</guid><description/></item><item><title>Hacking Network Authenticator Apps to Bypass NAT Detection on Android</title><link>/_projects/auth_hack/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/_projects/auth_hack/</guid><description/></item><item><title>High-performance DNS Mirror Server based on DPDK</title><link>/_projects/dpdk/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/_projects/dpdk/</guid><description/></item><item><title>IoT Malware Intelligence Collecting System</title><link>/_projects/iot/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/_projects/iot/</guid><description>Github
 Transport-layer honeycloud framework for IoT malware research by LOCI team, University of Jinan.
 This project provides a simple reverse proxy-like framework to implement high- or low-interaction honeycloud systems for various TCP-based application layer protocols. The frontend module works as a remote server to simply forward requests from adversaries to the backend server. Agents in the backend server will parse the requests and generate a response based on defined rules, or forward requests to backing services.</description></item><item><title>Miscellaneous</title><link>/misc/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/misc/</guid><description>Skills Languages:
-Chinese (Mandarin native speaker), English (qualified for CET-6), some other East-Asian languages.
+Chinese (Mandarin native speaker), English (IELTS 6.5/L7/R7.5/W6/S6), some other East-Asian languages.
 Programming:
 Python, C/C++, Linux Shell, C#, Java(Android), Verilog, MIPS ASM, enthusiastic to discover more!
 Data Mining Tools:
@@ -22,10 +22,10 @@ Github 🔍Details
 Data Analyze and Storage Infrastructures
 Building the workflow of our group’s data management, maintaining cloud servers and databases.
 🔍Details
-Network Traffic Online Analyzer in High-Speed Networks and Embedded Devices</description></item><item><title>Publications</title><link>/pubs/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/pubs/</guid><description>Conference Proceedings &amp;amp; Journals Mining Function Homology of Bot Loaders from Honeypot Logs.
+Network Traffic Online Analyzer in High-Speed Networks and Embedded Devices</description></item><item><title>Publications</title><link>/pubs/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/pubs/</guid><description>Conference Proceedings &amp;amp; Journals Devils in the Clouds: An Evolutionary Study of Telnet Bot Loaders.
+Yuhui Zhu, Zhenxiang Chen, Qiben Yan, Shanshan Wang, Alberto Giaretta,Enlong Li, Lizhi Peng, Chuan Zhao, Mauro Conti
+In progress.
+Mining Function Homology of Bot Loaders from Honeypot Logs.
 Yuhui Zhu, Zhenxiang Chen, Qiben Yan, Shanshan Wang, Enlong Li, Lizhi Peng, Chuan Zhao
-In progress, arXiv🌐.
-IoT Botnet Detection framework from Network Behavior based on Extreme Learning Machine
-Nasimul Hasan, Zhenxiang Chen, Chuan Zhao, Yuhui Zhu, Cong Liu
-IEEE INFOCOM WKSHPS: BigSecurity 2022 [CCF-A], IEEE Xplore🌐.
-AndroCreme: Unseen Android Malware Detection Based on Inductive Conformal Learning</description></item><item><title>RGB LED Strip Controller with Bluetooth Remote Control</title><link>/_projects/led_strip/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/_projects/led_strip/</guid><description/></item></channel></rss>
+arXiv🌐.
+IoT Botnet Detection framework from Network Behavior based on Extreme Learning Machine</description></item><item><title>RGB LED Strip Controller with Bluetooth Remote Control</title><link>/_projects/led_strip/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/_projects/led_strip/</guid><description/></item></channel></rss>
