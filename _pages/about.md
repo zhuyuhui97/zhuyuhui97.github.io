@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: PhD Candidate in Cybersecurity at Scuola Superiore Sant'Anna
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: profile_pic_4_3.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Istituto Tecip, Zona CNR</p>
+    <p>Via Giuseppe Moruzzi, 1</p>
+    <p>56124 Pisa PI, Italy</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,8 +27,20 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Yuhui Zhu is a Ph.D. candidate in the National PhD Program in Cybersecurity at the Sant’Anna School of Advanced Studies and the IMT School for Advanced Studies Lucca.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Since February 2023, he has been a PhD researcher at the [ReTiS Laboratory](https://retis.santannapisa.it/) under the supervision of [Prof. Alessandro Biondi](http://retis.sssup.it/~a.biondi/). He earned his Master’s degree in Computer Science from the University of Jinan, China, in June 2022, where he was supervised by [Prof. Zhenxiang Chen](http://loci.ujn.edu.cn/).
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+From February to August 2025, he was a visiting researcher with the [VUSec group](https://www.vusec.net/) at Vrije Universiteit Amsterdam, where he collaborated with [Prof. Cristiano Giuffrida](https://www.vusec.net/people/cristiano-giuffrida/).
+
+## research
+
+His research focuses on the security of computer systems and broader cybersecurity engineering topics, including microarchitectures, embedded systems, operating systems, and foundational software. In particular, his work involves:
+
+- Developing advanced techniques and theories to enhance the security of personal computing devices, network infrastructures, embedded applications, and virtualization systems.
+- Investigating vulnerabilities that arise at the intersection of hardware and software security mechanisms by reverse-engineering diverse CPU microarchitectures and systematically analyzing security-critical software components, such as OS kernels, language runtimes, and browsers.
+
+
+## **open to job opportunities**
+
+**I am currently looking for a position in the field of cybersecurity, particularly in system security, hardware security, or software security. If you are interested in my profile, please feel free to contact me via email!**

@@ -1,115 +1,92 @@
 ---
 ---
 
-@string{aps = {American Physical Society,}}
 
-@book{einstein1920relativity,
-  title={Relativity: the Special and General Theory},
-  author={Einstein, Albert},
-  year={1920},
-  publisher={Methuen & Co Ltd},
-  html={relativity.html}
-}
-
-@book{einstein1956investigations,
-  bibtex_show={true},
-  title={Investigations on the Theory of the Brownian Movement},
-  author={Einstein, Albert},
-  year={1956},
-  publisher={Courier Corporation},
-  preview={brownian-motion.gif}
-}
-
-@article{einstein1950meaning,
-  abbr={AJP},
-  bibtex_show={true},
-  title={The meaning of relativity},
-  author={Einstein, Albert and Taub, AH},
-  journal={American Journal of Physics},
-  volume={18},
-  number={6},
-  pages={403--404},
-  year={1950},
-  publisher={American Association of Physics Teachers}
-}
-
-@article{PhysRev.47.777,
-  abbr={PhysRev},
-  title={Can Quantum-Mechanical Description of Physical Reality Be Considered Complete?},
-  author={Einstein*†, A. and Podolsky*, B. and Rosen*, N.},
-  abstract={In a complete theory there is an element corresponding to each element of reality. A sufficient condition for the reality of a physical quantity is the possibility of predicting it with certainty, without disturbing the system. In quantum mechanics in the case of two physical quantities described by non-commuting operators, the knowledge of one precludes the knowledge of the other. Then either (1) the description of reality given by the wave function in quantum mechanics is not complete or (2) these two quantities cannot have simultaneous reality. Consideration of the problem of making predictions concerning a system on the basis of measurements made on another system that had previously interacted with it leads to the result that if (1) is false then (2) is also false. One is thus led to conclude that the description of reality as given by a wave function is not complete.},
-  journal={Phys. Rev.},
-  location={New Jersey},
-  volume={47},
-  issue={10},
-  pages={777--780},
-  numpages={0},
-  year={1935},
-  month={May},
-  publisher=aps,
-  doi={10.1103/PhysRev.47.777},
-  url={http://link.aps.org/doi/10.1103/PhysRev.47.777},
-  html={https://journals.aps.org/pr/abstract/10.1103/PhysRev.47.777},
-  pdf={example_pdf.pdf},
-  altmetric={248277},
-  dimensions={true},
-  google_scholar_id={qyhmnyLat1gC},
-  video={https://www.youtube-nocookie.com/embed/aqz-KE-bpKQ},
-  additional_info={. *More Information* can be [found here](https://github.com/alshedivat/al-folio/)},
-  annotation={* Example use of superscripts<br>† Albert Einstein},
+@inproceedings{zhu2025exploiting,
+  title={Exploiting Inaccurate Branch History in Side-Channel Attacks},
+  author={Zhu, Yuhui and Biondi, Alessandro},
+  booktitle={34th USENIX Security Symposium 2025},
+  year={2025},
   selected={true},
-  inspirehep_id = {3255}
+  abbr={Spectre-BSE},
+  code={https://doi.org/10.5281/zenodo.15612186},
+  html={https://www.usenix.org/conference/usenixsecurity25/presentation/zhu-yuhui},
+  arxiv={2506.07263},
+  google_scholar_id={_FxGoFyzp5QC},
+  abstract={Modern out-of-order CPUs heavily rely on speculative execution for performance optimization, with branch prediction serving as a cornerstone to minimize stalls and maximize efficiency. Whenever shared branch prediction resources lack proper isolation and sanitization methods, they may originate security vulnerabilities that expose sensitive data across different software contexts. This paper examines the fundamental components of modern Branch Prediction Units (BPUs) and investigates how resource sharing and contention affect two widely implemented but underdocumented features: Bias-Free Branch Prediction and Branch History Speculation. Our analysis demonstrates that these BPU features, while designed to enhance speculative execution efficiency through more accurate branch histories, can also introduce significant security risks. We show that these features can inadvertently modify the Branch History Buffer (BHB) update behavior and create new primitives that trigger malicious mis-speculations. This discovery exposes previously unknown cross-privilege attack surfaces for Branch History Injection (BHI). Based on these findings, we present three novel attack primitives: two Spectre attacks, namely Spectre-BSE and Spectre-BHS, and a cross-privilege control flow side-channel attack called BiasScope. Our research identifies corresponding patterns of vulnerable control flows and demonstrates exploitation on multiple processors. Finally, Chimera is presented: an attack demonstrator based on eBPF for a variant of Spectre-BHS that is capable of leaking kernel memory contents at 24,628 bit/s.}
 }
 
-@article{einstein1905molekularkinetischen,
-  title={{\"U}ber die von der molekularkinetischen Theorie der W{\"a}rme geforderte Bewegung von in ruhenden Fl{\"u}ssigkeiten suspendierten Teilchen},
-  author={Einstein, A.},
-  journal={Annalen der physik},
-  volume={322},
-  number={8},
-  pages={549--560},
-  year={1905},
-  publisher={Wiley Online Library}
+
+@inproceedings{nieto2025cybersecurity,
+  title={Cybersecurity Education Showdown: A Comparative Analysis of K-12 Education Systems in the United States, the European Union and China},
+  author={Nieto, Berenice Fern{\'a}ndez and Romanini, Daisy and Zhu, Yuhui},
+  booktitle={ITASEC - Italian Conference on CyberSecurity 2025},
+  year={2025},
+  pdf={https://ceur-ws.org/Vol-3962/paper41.pdf},
+  google_scholar_id={ufrVoPGSRksC},
+  abstract={Cybersecurity has become a critical aspect of modern life, essential for safeguarding infrastructure, maintaining data integrity, and addressing a growing array of threats. As cyberhygiene and cybersecurity literacy emerge as indispensable skills, K-12 education plays a pivotal role in cultivating a cybersecurity culture while simultaneously preparing the next generation of professionals. To delve into this role, our study conducts a comparative analysis of K-12 cybersecurity education in the United States, the European Union (with a focus on Germany, Estonia, France, and especially Italy), and the People’s Republic of China, highlighting their legal frameworks, funding mechanisms, and initiatives aimed at raising public awareness. The findings provide insights into the strengths and gaps in global efforts to integrate cybersecurity into education, offering guidance for policymakers and educators seeking to advance this crucial field. In particular, this work underscores the importance of balancing centralized policies with localized flexibility to create inclusive, adaptative, and dynamic cybersecurity education ecosystems.}
 }
 
-@article{einstein1905movement,
-  abbr={Ann. Phys.},
-  title={Un the movement of small particles suspended in statiunary liquids required by the molecular-kinetic theory 0f heat},
-  author={Einstein, A.},
-  journal={Ann. Phys.},
-  volume={17},
-  pages={549--560},
-  year={1905}
+@INPROCEEDINGS{10278636,
+  author={Zhu, Yuhui and Chen, Zhenxiang and Yan, Qiben and Wang, Shanshan and Giaretta, Alberto and Li, Enlong and Peng, Lizhi and Zhao, Chuan and Conti, Mauro},
+  booktitle={ICC 2023 - IEEE International Conference on Communications}, 
+  title={Devils in the Clouds: An Evolutionary Study of Telnet Bot Loaders}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={2338-2344},
+  keywords={Measurement;Technological innovation;Botnet;Source coding;Taxonomy;Chatbots;Behavioral sciences;IoT botnet;loader;taxonomy;lineage inference},
+  doi={10.1109/ICC45041.2023.10278636},
+  selected={true},
+  google_scholar_id={9yKSN-GCB0IC},
+  abstract={One of the innovations brought by Mirai and its derived malware is the adoption of self-contained loaders for infecting IoT devices and recruiting them in botnets. Functionally decoupled from other botnet components and not embedded in the payload, loaders cannot be analysed using conventional approaches that rely on honeypots for capturing samples. Different approaches are necessary for studying the loaders evolution and defining a genealogy. To address the insufficient knowledge about loaders' lineage in existing studies, in this paper, we propose a semantic-aware method to measure, categorize, and compare different loader servers, with the goal of highlighting their evolution, independent from the payload evolution. Leveraging behavior-based metrics, we cluster the discovered loaders and define eight families to determine the genealogy and draw a homology map. Our study shows that the source code of Mirai is evolving and spawning new botnets with new capabilities, both on the client side and the server side. In turn, shedding light on the infection loaders can help the cybersecurity community to improve detection and prevention tools.}
 }
 
-@article{einstein1905electrodynamics,
-  title={On the electrodynamics of moving bodies},
-  author={Einstein, A.},
-  year={1905}
+
+@INPROCEEDINGS{9798307,
+  author={Hasan, Nasimul and Chen, Zhenxiang and Zhao, Chuan and Zhu, Yuhui and Liu, Cong},
+  booktitle={IEEE INFOCOM 2022 - IEEE Conference on Computer Communications Workshops (INFOCOM WKSHPS)}, 
+  title={IoT Botnet Detection framework from Network Behavior based on Extreme Learning Machine}, 
+  year={2022},
+  volume={},
+  number={},
+  pages={1-6},
+  keywords={Learning systems;Computers;Training;Extreme learning machines;Botnet;Conferences;Behavioral sciences;IoT Botnet;Malware;Botnet;Network Security;Malware Detection},
+  doi={10.1109/INFOCOMWKSHPS54753.2022.9798307},
+  google_scholar_id={u-x6o8ySG0sC},
+  selected={true},
+  abstract={IoT devices have been affected by fundamental security flaws in recent years, rendering them exposed to various threats and viruses, particularly IoT botnets. In contrast to conventional malware on desktop computers and Android, heterogeneous processor architecture constraints on IoT devices pose various challenges to researchers. Traditional methodologies are challenging to apply because of the IoT’s unique properties, such as resource-constrained devices, enormous volumes of data, and the requirement of real-time detection. Then it proposes a lightweight framework to detect IoT botnet and botnet families. The framework operates with bot behavior data over a simple yet effective learning based method named Extreme Learning Machine. For IoT botnet detection, the experimental results demonstrate that the suggested technique achieves accuracy, precision, and recall of 97.7%, 97.1%, and 97.1%, respectively. The detection performance of botnet families is inspiring. Furthermore, a comparison of our framework to other current approaches reveals that it produces better results, particularly in terms of the training time, which gives it a considerable edge over other learning-based methods.}
 }
 
-@Article{einstein1905photoelectriceffect,
-  bibtex_show={true},
-  abbr={Ann. Phys.},
-  title="{{\"U}ber einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt}",
-  author={Albert Einstein},
-  abstract={This is the abstract text.},
-  journal={Ann. Phys.},
-  volume={322},
-  number={6},
-  pages={132--148},
-  year={1905},
-  doi={10.1002/andp.19053220607},
-  award={Albert Einstein receveid the **Nobel Prize in Physics** 1921 *for his services to Theoretical Physics, and especially for his discovery of the law of the photoelectric effect*},
-  award_name={Nobel Prize}
+
+@inproceedings{zhangAndroCremeUnseenAndroid2021,
+  title = {{{AndroCreme}}: {{Unseen Android Malware Detection Based}} on {{Inductive Conformal Learning}}},
+  shorttitle = {{{AndroCreme}}},
+  booktitle = {2021 {{IEEE}} 20th {{International Conference}} on {{Trust}}, {{Security}} and {{Privacy}} in {{Computing}} and {{Communications}} ({{TrustCom}})},
+  author = {Zhang, Gang and Li, Hao and Chen, Zhenxiang and Peng, Lizhi and Zhu, Yuhui and Zhao, Chuan},
+  year = {2021},
+  pages = {651--658},
+  issn = {2324-9013},
+  doi = {10.1109/TrustCom53373.2021.00097},
+  abstract = {Android platform is facing serious malware threats due to its popularity, as evidenced by the drastic increase on the number of mobile malware families and variants in recent years. Detecting malware variants and zero-day malware is a critical challenge that must be addressed to protect mobile devices against malware attacks. In this study, we present AndroCreme, a novel network intrusion detection system (NIDS) that can identify unseen malware by analyzing the network behavior of Android malware. To address the temporal bias issue in NIDS, we propose a method for rapid iterative update of the model based on data selection and data size limitation. The selection of effective data is carried out by induction and conformal technology, and the data scale is controlled by the method of time window and data cycle selection. To further achieve fast training speed and high efficiency, we leverage a gradient boosting framework that uses a tree-based learning algorithm, namely, LightGBM, as the meta predictor. We evaluate the performance of AndroCreme over 400K real-world network flows, which are collected from over 30K Android benignware and 21K malware applications. The experimental results show that, compared with the retraining method using all data, AndroCreme requires only a small amount of datareduce more than 3x to obtain better detection performance, which effectively solves the temporal bias.},
+  langid = {english},
+  google_scholar_id = {u5HHmVD_uO8C},
 }
 
-@book{przibram1967letters,
-  bibtex_show={true},
-  title={Letters on wave mechanics},
-  author={Einstein, Albert and Schrödinger, Erwin and Planck, Max and Lorentz, Hendrik Antoon and Przibram, Karl},
-  year={1967},
-  publisher={Vision},
-  preview={wave-mechanics.gif},
-  abbr={Vision}
+
+@inproceedings{10.1117/12.2501923,
+  author = {Jingya Shen and Zhenxiang Chen and Shanshan Wang and Yuhui Zhu and Muhammad Umair Hassan},
+  title = {{DroidDetector: a traffic-based platform to detect android malware using machine learning}},
+  volume = {10828},
+  booktitle = {Third International Workshop on Pattern Recognition},
+  editor = {Xudong Jiang and Zhenxiang Chen and Guojian Chen},
+  organization = {International Society for Optics and Photonics},
+  publisher = {SPIE},
+  pages = {108280N},
+  abstract = {With the rapid development of the mobile Internet,more and more people are using smart phones to access the Internet, especially Android devices, which have become the most popular devices of the moment. Although today's mobile operating systems do their best to provide users with a secure Internet environment, due to the open source nature of Android, it is still unable to completely stop the outbreak of Android malware. Although existing source-based static detection and behavior-based dynamic detection can identify mobile malware, many problems still exist,such as low detection efficiency and difficulty in deployment. In order to solve these problems, we propose DroidDetector, a detection engine that can automatically detect whether an app is a malware or not by using off-line trained machine learning models for network traffic analysis. DroidDetector uses the VPNService class provided by the Android SDK to intercept network traffic (it does not require root permission). All data analysis are performed on the server,which consumes minimun cache and resource on mobile devices. We extract the length of the first 8 packets of network traffic as features and use Support Vector Machine(SVM) classification algorithm to train the model. In an evaluation experiment of 53107 TCP packet length feature tuples samples, DroidDetector can achieve 95. 68% detection confidence.},
+  keywords = {Android, Network Traffic, Malware, Machine learning, Detection},
+  year = {2018},
+  doi = {10.1117/12.2501923},
+  URL = {https://doi.org/10.1117/12.2501923},
+  google_scholar_id = {d1gkVwhDpl0C},
 }
