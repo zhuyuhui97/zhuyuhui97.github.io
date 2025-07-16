@@ -27,20 +27,25 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Yuhui Zhu is a Ph.D. candidate in the National PhD Program in Cybersecurity at the Sant’Anna School of Advanced Studies and the IMT School for Advanced Studies Lucca.
+I am Yuhui Zhu, a Ph.D. candidate in the National PhD Program in Cybersecurity at the Sant’Anna School of Advanced Studies and the IMT School for Advanced Studies Lucca.
 
-Since February 2023, he has been a PhD researcher at the [ReTiS Laboratory](https://retis.santannapisa.it/) under the supervision of [Prof. Alessandro Biondi](http://retis.sssup.it/~a.biondi/). He earned his Master’s degree in Computer Science from the University of Jinan, China, in June 2022, where he was supervised by [Prof. Zhenxiang Chen](http://loci.ujn.edu.cn/).
+Since February 2023, I have been a PhD researcher at the [ReTiS Laboratory](https://retis.santannapisa.it/) under the supervision of [Prof. Alessandro Biondi](http://retis.sssup.it/~a.biondi/). I earned my Master’s degree in Computer Science from the University of Jinan, China, in June 2022, where I was supervised by [Prof. Zhenxiang Chen](http://loci.ujn.edu.cn/).
 
-From February to August 2025, he was a visiting researcher with the [VUSec group](https://www.vusec.net/) at Vrije Universiteit Amsterdam, where he collaborated with [Prof. Cristiano Giuffrida](https://www.vusec.net/people/cristiano-giuffrida/).
+From February to August 2025, I was a visiting researcher with the [VUSec group](https://www.vusec.net/) at Vrije Universiteit Amsterdam, where I collaborated with [Prof. Cristiano Giuffrida](https://www.vusec.net/people/cristiano-giuffrida/).
+
+See more about me on [misc page](/misc/).
 
 ## research
 
-His research focuses on the security of computer systems and broader cybersecurity engineering topics, including microarchitectures, embedded systems, operating systems, and foundational software. In particular, his work involves:
+My research focuses on the security of computer systems and broader cybersecurity engineering topics, including microarchitectures, embedded systems, operating systems, and foundational software. In particular, I work on:
 
 - Developing advanced techniques and theories to enhance the security of personal computing devices, network infrastructures, embedded applications, and virtualization systems.
 - Investigating vulnerabilities that arise at the intersection of hardware and software security mechanisms by reverse-engineering diverse CPU microarchitectures and systematically analyzing security-critical software components, such as OS kernels, language runtimes, and browsers.
 
+<div class="card mt-3 p-3" markdown="1">
 
 ## **open to job opportunities**
 
-**I am currently looking for a position in the field of cybersecurity, particularly in system security, hardware security, or software security. If you are interested in my profile, please feel free to contact me via email!**
+I am currently looking for a position in the field of cybersecurity, particularly in system security, hardware security, or software security. If you are interested in my profile, please feel free to contact me via email!
+
+</div>

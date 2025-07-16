@@ -35,14 +35,65 @@
   ],
   "volunteer": [
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
+      "organization": "ASPLOS 2025",
+      "location": "Rotterdam, Netherlands",
+      "position": "Volunteer",
       "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "startDate": "2025-03-30",
+      "endDate": "2025-04-03"
+    },
+    {
+      "organization": "Workshop on Cybersecurity Education for Social Impact @ ITASEC 2023",
+      "location": "Bologna, Italy",
+      "position": "Organizing Committee Member",
+      "startDate": "2025-02-03",
+      "endDate": "2025-02-08",
+      "url": "https://sites.google.com/imtlucca.it/cesi-workshop/"
+    },
+    {
+      "organization": "ITASEC 2023",
+      "location": "Bari, Italy",
+      "position": "Volunteer",
+      "startDate": "2023-05-02",
+      "endDate": "2023-05-05",
+      "url": "https://2023.itasec.it/"
+    },
+    {
+      "organization": "ICIVIS 2022",
+      "location": "Jinan, China",
+      "position": "Volunteer",
+      "startDate": "2022-07-15",
+      "endDate": "2022-08-17",
+      "url": "http://www.icivis.net/"
+    },
+    {
+      "organization": "ACM TURC 2021",
+      "location": "Hefei, China",
+      "position": "Volunteer",
+      "startDate": "2021-07-30",
+      "endDate": "2021-08-01",
+      "url": "https://www.acmturc.com/2021/cn/index.html"
+    },
+    {
+      "organization": "ICOC 2021",
+      "location": "Jinan, China",
+      "position": "Volunteer",
+      "startDate": "2020-11",
+      "endDate": "2020-11"
+    },
+    {
+      "organization": "CNCC 2020 (China National Computing Congress)",
+      "location": "Jinan, China",
+      "position": "Volunteer",
+      "startDate": "2020-10",
+      "endDate": "2020-10"
+    },
+    {
+      "organization": "Anthon Open-Source Community",
+      "position": "Early Member",
+      "url": "https://aosc.io",
+      "startDate": "2011",
+      "endDate": "2013"
     }
   ],
   "education": [
@@ -136,16 +187,54 @@
   ],
   "skills": [
     {
-      "name": "Physics",
+      "name": "Programming",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "C/C++",
+        "Python",
+        "Bash",
+        "Java (Android)",
+        "Verilog",
+        "C#",
+        "Assembly (x86/ARM/MIPS)"
+      ]
+    },
+    {
+      "name": "Embedded Systems",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Firmware development",
+        "Microcontrollers",
+        "Bluetooth",
+        "LoRa",
+        "PCB design"
+      ]
+    },
+    {
+      "name": "Systems & Tools",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Linux Kernel & Driver Progamming",
+        "QEMU",
+        "iptables",
+        "Git",
+        "DPDK",
+        "eBPF"
+      ]
+    },
+    {
+      "name": "Security",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Microarchitecture vulnerabilities and mitigations",
+        "Binary analysis",
+        "Exploit development",
+        "Reverse engineering",
+        "HW&SW cross-platform debugging"
       ]
     }
   ],

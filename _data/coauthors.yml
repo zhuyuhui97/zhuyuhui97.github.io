@@ -1,6 +1,6 @@
 "biondi":
   - firstname: ["Alessandro", "A."]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+    url: https://retis.santannapisa.it/~a.biondi/
 
 "yan":
   - firstname: ["Qiben", "Q."]
@@ -13,3 +13,15 @@
 "conti":
   - firstname: ["Mauro", "M."]
     url: https://www.math.unipd.it/~conti/
+
+"giaretta":
+  - firstname: ["Alberto", "A."]
+    url: https://aga.mpi.aass.oru.se/
+
+"zhao":
+  - firstname: ["Chuan", "C."]
+    url: https://ujnccs.github.io/index_en.html
+
+"giuffrida":
+  - firstname: ["Cristiano", "C."]
+    url: https://www.vusec.net/people/cristiano-giuffrida/
