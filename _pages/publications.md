@@ -4,7 +4,7 @@ permalink: /publications/
 title: publications
 # description: You may check my latest publications on [Google Scholar](https://scholar.google.com/citations?user=ZCFMcjIAAAAJ).
 nav: true
-nav_order: 2
+nav_order: 3
 ---
 
 <!-- _pages/publications.md -->
