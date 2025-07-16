@@ -30,12 +30,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/repositories/";
           },
-        },{id: "books-the-godfather",
-          title: 'The Godfather',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-new-vulnerability-spectre-bse-cve-2024-10929-reported-by-our-team-in-september-2024-has-been-disclosed-by-arm-further-details-are-available-in-the-arm-cpu-security-bulletin",
+        },{id: "news-a-new-vulnerability-spectre-bse-cve-2024-10929-reported-by-our-team-in-september-2024-has-been-disclosed-by-arm-further-details-are-available-in-the-arm-cpu-security-bulletin",
           title: 'A new vulnerability, Spectre-BSE (CVE-2024-10929), reported by our team in September 2024, has...',
           description: "",
           section: "News",},{id: "news-i-have-joined-the-vusec-group-at-vrije-universiteit-amsterdam-as-a-visiting-phd-researcher",
