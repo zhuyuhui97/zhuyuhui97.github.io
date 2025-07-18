@@ -55,9 +55,15 @@
               {% endif %}
             </a>
           </li>
-
+          {% assign nav_items = site.pages %}
+          {% for p in nav_items %}
+            {% if p.navlink %}
+              {% assign navlink_items = p.links | navlink_list %}
+              {% assign nav_items = nav_items | concat: navlink_items %}
+            {% endif %}
+          {% endfor %}
           <!-- Other pages -->
-          {% assign sorted_pages = site.pages | sort: 'nav_order' %}
+          {% assign sorted_pages = nav_items | sort: 'nav_order' %}
           {% for p in sorted_pages %}
             {% if p.nav and p.autogen == null %}
               {% if p.dropdown %}
@@ -117,11 +123,6 @@
               {% endif %}
             {% endif %}
           {% endfor %}
-          <li class="nav-item">
-            <a class="nav-link" href="{{ '/assets/pdf/cv.pdf' | relative_url }}">
-              cv.pdf
-            </a>
-          </li>
           {% if site.search_enabled %}
             <!-- Search -->
             <li class="nav-item">
