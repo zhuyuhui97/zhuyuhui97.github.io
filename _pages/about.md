@@ -42,12 +42,9 @@ My research focuses on the security of computer systems and broader cybersecurit
 - Developing advanced techniques and theories to enhance the security of personal computing devices, network infrastructures, embedded applications, and virtualization systems.
 - Investigating vulnerabilities that arise at the intersection of hardware and software security mechanisms by reverse-engineering diverse CPU microarchitectures and systematically analyzing security-critical software components, such as OS kernels, language runtimes, and browsers.
 
-<div class="card mt-3 p-3" markdown="1">
-
-## **open to job opportunities**
-
-I am currently looking for a position in the field of cybersecurity, particularly in system security, hardware security, or software security. If you are interested in my profile, please feel free to contact me via email!
-
-</div>
+> ##### OPEN TO JOB OPPORTUNITIES
+>
+> I am currently looking for a position in the field of cybersecurity, particularly in system security, hardware security, or software security. If you are interested in my profile, please feel free to contact me via email [yuhui.zhu@santannapisa.it](mailto:yuhui.zhu@santannapisa.it)!
+{: .block-tip }
 
 ---

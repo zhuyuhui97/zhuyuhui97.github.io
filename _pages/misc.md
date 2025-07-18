@@ -2,7 +2,7 @@
 layout: page
 title: misc
 permalink: /misc/
-nav: true
+nav: false
 nav_order: 2
 ---
 
