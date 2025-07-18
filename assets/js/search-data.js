@@ -9,14 +9,7 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-misc",
-          title: "misc",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/misc/";
-          },
-        },{id: "nav-publications",
+  },{id: "nav-publications",
           title: "publications",
           description: "",
           section: "Navigation",
@@ -30,14 +23,21 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "nav-repositories",
-          title: "repositories",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/repositories/";
-          },
-        },{id: "news-a-new-vulnerability-spectre-bse-cve-2024-10929-reported-by-our-team-in-september-2024-has-been-disclosed-by-arm-further-details-are-available-in-the-arm-cpu-security-bulletin",
+        },{id: "dropdown-misc",
+              title: "misc",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/misc/";
+              },
+            },{id: "dropdown-repos",
+              title: "repos",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/repos/";
+              },
+            },{id: "news-a-new-vulnerability-spectre-bse-cve-2024-10929-reported-by-our-team-in-september-2024-has-been-disclosed-by-arm-further-details-are-available-in-the-arm-cpu-security-bulletin",
           title: 'A new vulnerability, Spectre-BSE (CVE-2024-10929), reported by our team in September 2024, has...',
           description: "",
           section: "News",},{id: "news-i-have-joined-the-vusec-group-at-vrije-universiteit-amsterdam-as-a-visiting-phd-researcher",
